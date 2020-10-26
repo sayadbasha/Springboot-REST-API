@@ -1,0 +1,29 @@
+Request:
+{
+"hotelName":"Hilton",
+"name":"Manha naaz",
+"email":"sayad.basha14@gmail.com",
+"mobileNumber":"8105966006",
+"roomId":"1234",
+"roomName":"eden1",
+"noofGuest":"1",
+"totalAmount":"10500",
+"checkinDate": "2020-10-26",
+"checkoutDate": "2020-10-26"
+
+}
+
+response:
+{
+    "hotel_id": 23,
+    "hotelName": "Hilton",
+    "name": "Manha naaz",
+    "mobileNumber": "8105966006",
+    "email": "sayad.basha14@gmail.com",
+    "roomId": "1234",
+    "roomName": "eden1",
+    "noofGuest": 1,
+    "totalAmount": 10500.0,
+    "checkinDate": "2020-10-26",
+    "checkoutDate": "2020-10-26"
+}
